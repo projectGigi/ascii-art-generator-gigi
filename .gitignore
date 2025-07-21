@@ -1,0 +1,11 @@
+dist/
+build/
+__pycache__/
+*.spec
+ascii_env/
+*.png
+*.jpg
+*.jpeg
+*.gif
+output/
+
