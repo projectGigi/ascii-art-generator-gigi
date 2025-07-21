@@ -62,6 +62,7 @@ python ascii_art.py
 -¡Listo! Encuentra tu arte en la carpeta seleccionada
 ---
 💡 Consejos para mejores resultados
+
 -Usa imágenes con buen contraste y resolución moderada
 
 -Para imágenes con mucho detalle, aumenta el ancho en caracteres
