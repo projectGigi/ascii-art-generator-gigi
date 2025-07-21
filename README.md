@@ -1,6 +1,6 @@
 # 🎨 Generador de ASCII Oficial de Gigi
 
-¡Bienvenido al generador de arte ASCII más cool y retro que puedas encontrar!  
+¡Bienvenido al generador de arte ASCII más humilde que puedas encontrar!  
 Este programa convierte cualquier imagen en una obra de arte ASCII, con opción de salida en **color** o **escala de grises** y una interfaz gráfica amigable y sencilla.
 
 ---
